@@ -1,1 +1,1 @@
-# AI_ML_Training
+# Olympic_medal_prediction_model
